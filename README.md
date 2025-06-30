@@ -1,2 +1,2 @@
-online voting system 
+online voting system
 author-Tanishka Mandil
